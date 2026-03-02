@@ -4,17 +4,17 @@
 📚 **Cursando Sistemas de Informação** na **UNIFEBE**
 
 ## 🚀 Sobre mim
-Tive contato com a área desde pequeno, busco me aprofundar nas tecnologias e aprimorar meus conhecimentos
+Tive contato com a área desde pequeno, busco me aprofundar nas tecnologias e aprimorar meus conhecimentos.
 
 ## 🛠️ Tecnologias & Conhecimentos
 
-💻 **Linguagens e Tecnologias**
-- ⚙️ C#
-- 🌐 HTML
-- 📜 JavaScript
-- 🎨 CSS
-- 🟢 Node.js
-- 🔷 .NET
+### 💻 Linguagens e Tecnologias
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-🗄️ **Banco de Dados**
-- 🐘 PostgreSQL
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
