@@ -1,11 +1,14 @@
-# 👋 Olá mundo, eu sou o Rafael Mai Dubiella!
+# 👋 Olá mundo!
+Me chamo Rafael Mai Dubiella, tenho 18 anos, e atualmente já atuo como desenvolvedor.
 
-🎓 **Técnico em Desenvolvimento de Sistemas** pelo **SENAI**  
-📚 **Cursando Sistemas de Informação** na **UNIFEBE**
+
 
 ## 🚀 Sobre mim
 Tive contato com a área desde pequeno, busco me aprofundar nas tecnologias e aprimorar meus conhecimentos.<br>
 Buscando conhecer tecnologias novas que lançarem no mercado, além de suas aplicações.
+
+🎓 **Técnico em Desenvolvimento de Sistemas** pelo **SENAI**  
+📚 **Cursando Sistemas de Informação** na **UNIFEBE**
 
 ## 🛠️ Tecnologias & Conhecimentos
 
@@ -18,3 +21,9 @@ Buscando conhecer tecnologias novas que lançarem no mercado, além de suas apli
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## 🧩 Tecnologias Utilizadas
+
+![GeneXus](https://img.shields.io/badge/GeneXus-00A3A1?style=for-the-badge&logo=genexus&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
